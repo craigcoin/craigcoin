@@ -1,0 +1,9 @@
+Building Craigcoin
+
+See doc/readme-qt.rst for instructions on building Craigcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Craigcoin.
+
+See doc/build-*.txt for instructions on building craigcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Craigcoin.
